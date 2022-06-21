@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Apple
 Kiwi
 Banana
+=======
+James Bond
+Terminator
+>>>>>>> movies
